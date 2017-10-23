@@ -5,8 +5,8 @@ public class Zadanie1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner reader = new Scanner(System.in);
-		double c = reader.nextDouble();
-		double f=1.8*c+32.0; 
+		float c = reader.nextFloat();
+		float f=1.8f*c+32.0f; 
 		System.out.println(f);
 
 	}

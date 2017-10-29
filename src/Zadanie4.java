@@ -13,7 +13,7 @@ public class Zadanie4{
 		else {
 			p = 14839.02 + 0.32*(85528-d);
 		}
-		System.out.println("Podatek wynosi "+p+"z³");
+		System.out.println("Podatek wynosi "+p+"zl.");
 	}
 
 }
